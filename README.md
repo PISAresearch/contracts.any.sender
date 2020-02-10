@@ -1,2 +1,2 @@
 # contracts.any.sender
-Contracts for the any.sender repo
+Contracts for any.sender, the accountable transaction relaying service.
